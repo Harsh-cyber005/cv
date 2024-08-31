@@ -29,7 +29,7 @@ export const RESUME_DATA = {
   summary:
     "As a Full Stack Engineer, I specialize in taking products from concept to launch, with a focus on backend development, DevOps, networking, and system design. I work primarily with TypeScript, React, Node.js, and develop robust REST APIs and RPCs. My experience comes from intensive personal projects, where I’ve honed my skills in building efficient, scalable, and secure systems.",
   avatarUrl: "https://u-ruddy-two.vercel.app/H8FDk1BJl",
-  personalWebsiteUrl: "https://harshmax.dev.vercel.app/",
+  personalWebsiteUrl: "https://harshmax.vercel.app/",
   contact: {
     email: "harshxgupta931@gmail.com",
     tel: "+91XXXXXXXXXX",
