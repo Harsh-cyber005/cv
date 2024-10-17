@@ -77,20 +77,10 @@ export const RESUME_DATA = {
     "C++",
     "Python",
     "JavaScript",
-    "TypeScript",
-    "React/Next.js",
+    "React.js",
     "Node.js",
-    "WebRTC",
     "Docker",
-    "AWS",
-    "NGINX",
-    "GraphQL",
-    "PostgreSQL",
-    "Redis",
     "MongoDB",
-    "Kubernetes",
-    "CI/CD",
-    "DevOps",
     "Linux"
   ],
   projects: [
@@ -109,6 +99,23 @@ export const RESUME_DATA = {
       link: {
         label: "github.com",
         href: "https://movix-client-react.vercel.app/",
+      },
+    },
+    {
+      title: "Godowns App",
+      techStack: [
+        "React",
+        "Node.js",
+        "MongoDB",
+        "REST API",
+        "Docker",
+      ],
+      description:
+        "An app to store, manage and locate stocks of various products in Godowns around the city",
+      logo: ParabolLogo,
+      link: {
+        label: "github.com",
+        href: "https://godowns-pi.vercel.app/",
       },
     },
   ]
