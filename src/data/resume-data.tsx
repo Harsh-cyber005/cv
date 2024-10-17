@@ -27,7 +27,7 @@ export const RESUME_DATA = {
   about:
     "Experienced Full Stack Developer with a strong focus on backend development, DevOps, networking, and system design, committed to delivering high-quality, robust solutions.",
   summary:
-    "As a Full Stack Engineer, I specialize in taking products from concept to launch, with a focus on backend development, DevOps, networking, and system design. I work primarily with TypeScript, React, Node.js, and develop robust REST APIs and RPCs. My experience comes from intensive personal projects, where I’ve honed my skills in building efficient, scalable, and secure systems.",
+    "As a Full Stack Engineer, I specialize in taking products from concept to launch, with a focus on backend development, DevOps, networking, and system design. I work primarily with TypeScript, React, Node.js, and develop robust REST APIs. My experience comes from intensive personal projects, where I’ve honed my skills in building efficient, scalable, and secure systems.",
   avatarUrl: "https://u-ruddy-two.vercel.app/H8FDk1BJl",
   personalWebsiteUrl: "https://harshmax.vercel.app/",
   contact: {
