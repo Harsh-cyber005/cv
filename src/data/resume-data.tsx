@@ -54,7 +54,7 @@ export const RESUME_DATA = {
   education: [
     {
       school: "Indian Institute of Technology Kharagpur",
-      degree: "Dual Degree in Mechanical Engineering - 8.16 CGPA",
+      degree: "Dual Degree in Mechanical Engineering - 8.22 CGPA",
       start: "2022",
       end: "2027",
     },
