@@ -124,7 +124,7 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "Godowns App",
+      title: "Second Brain App",
       techStack: [
         "Next.js",
         "Node.js",
