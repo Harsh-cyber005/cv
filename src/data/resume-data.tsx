@@ -131,7 +131,7 @@ export const RESUME_DATA = {
         "MongoDB"
       ],
       description:
-        "an app to store and manage Contents which can be stored, like youtube, links, instagram posts, tweets, pinterest ",
+        "an app to store and manage Contents which can be stored, like youtube, links, instagram posts, tweets, pinterest pins, etc.",
       logo: ParabolLogo,
       link: {
         label: "github.com",
