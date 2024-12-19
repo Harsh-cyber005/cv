@@ -81,7 +81,12 @@ export const RESUME_DATA = {
     "Node.js",
     "Docker",
     "MongoDB",
-    "Linux"
+    "Linux",
+    "Networking",
+    "DevOps",
+    "Computer Architecture",
+    "System Design",
+    "Low-Level Programming"
   ],
   projects: [
     {
