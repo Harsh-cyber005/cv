@@ -123,5 +123,22 @@ export const RESUME_DATA = {
         href: "https://godowns-pi.vercel.app/",
       },
     },
+    {
+      title: "Godowns App",
+      techStack: [
+        "React",
+        "Node.js",
+        "MongoDB",
+        "REST API",
+        "Docker",
+      ],
+      description:
+        "An app to store, manage and locate stocks of various products in Godowns around the city",
+      logo: ParabolLogo,
+      link: {
+        label: "github.com",
+        href: "https://second-brain-chi.vercel.app/",
+      },
+    }
   ]
 } as const;
