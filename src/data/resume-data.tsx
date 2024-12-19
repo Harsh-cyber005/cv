@@ -126,14 +126,12 @@ export const RESUME_DATA = {
     {
       title: "Godowns App",
       techStack: [
-        "React",
+        "Next.js",
         "Node.js",
-        "MongoDB",
-        "REST API",
-        "Docker",
+        "MongoDB"
       ],
       description:
-        "An app to store, manage and locate stocks of various products in Godowns around the city",
+        "",
       logo: ParabolLogo,
       link: {
         label: "github.com",
