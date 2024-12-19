@@ -131,7 +131,7 @@ export const RESUME_DATA = {
         "MongoDB"
       ],
       description:
-        "",
+        "an app to store and manage Contents of ",
       logo: ParabolLogo,
       link: {
         label: "github.com",
