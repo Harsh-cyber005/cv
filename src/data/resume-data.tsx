@@ -18,6 +18,7 @@ import {
   YearProgressLogo,
 } from "@/images/logos";
 import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
+import style from "styled-jsx/style";
 
 export const RESUME_DATA = {
   name: "Harsh Gupta",
@@ -27,7 +28,7 @@ export const RESUME_DATA = {
   about:
     "Experienced Full Stack Developer with a strong focus on backend development, DevOps, networking, and system design, committed to delivering high-quality, robust solutions.",
   summary:
-    "As a Full Stack Engineer, I specialize in taking products from concept to launch, with a focus on backend development, DevOps, networking, and system design. I work primarily with TypeScript, React, Node.js, and develop robust REST APIs. My experience comes from intensive personal projects, where I’ve honed my skills in building efficient, scalable, and secure systems.",
+    "As a Full Stack Engineer, I specialize in taking products from concept to launch, with a focus on backend development, DevOps, networking, and system design. I work primarily with Golang, TypeScript, React, Node.js, and develop robust REST APIs. My experience comes from intensive personal projects, where I’ve honed my skills in building efficient, scalable, and secure systems.",
   avatarUrl: "profile.jpeg",
   personalWebsiteUrl: "https://harshmax.vercel.app/",
   contact: {
@@ -54,7 +55,7 @@ export const RESUME_DATA = {
   education: [
     {
       school: "Indian Institute of Technology Kharagpur",
-      degree: "Dual Degree in Mechanical Engineering - 8.22 CGPA",
+      degree: "Dual Degree in Mechanical Engineering - 8.15 CGPA",
       start: "2022",
       end: "2027",
     },
@@ -76,66 +77,85 @@ export const RESUME_DATA = {
     "Golang",
     "C++",
     "Python",
-    "JavaScript",
-    "React.js",
+    "TypeScript",
+    "Next.js",
     "Node.js",
     "Docker",
     "MongoDB",
     "Linux",
     "Networking",
+    "DBMS",
     "DevOps",
-    "Computer Architecture",
-    "System Design",
-    "Low-Level Programming"
+    "System Design"
   ],
   projects: [
     {
-      title: "Movix Prime",
+      title: "Monitor Server",
       techStack: [
-        "React",
-        "Node.js",
-        "MongoDB",
-        "REST API",
+        "Next.js",
+        "Express.js",
+        "bash",
+        "Prisma ORM",
+        "PostgreSQL",
         "Docker",
       ],
       description:
-        "A movie and web series streaming platform to watch movies and web series online.",
+        "A real-time monitoring system designed to track distributed Virtual Machines (VMs).",
       logo: ParabolLogo,
       link: {
         label: "github.com",
-        href: "https://movix-client-react.vercel.app/",
-      },
+        href: "https://github.com/Harsh-cyber005/monitor-server",
+      }
     },
     {
-      title: "Godowns App",
+      title: "AI-Mental Health",
       techStack: [
-        "React",
-        "Node.js",
+        "Next.js",
+        "FastAPI",
         "MongoDB",
-        "REST API",
+        "gRPC",
+        "Redis",
+        "LangGraph",
         "Docker",
       ],
       description:
-        "An app to store, manage and locate stocks of various products in Godowns around the city",
+        "Microservices platform using Python, Next.js, and gRPC for scheduling meetings, chat, report generation, and async update management",
       logo: ParabolLogo,
       link: {
         label: "github.com",
-        href: "https://godowns-pi.vercel.app/",
+        href: "https://github.com/Harsh-cyber005/gc25",
       },
     },
     {
-      title: "Second Brain App",
+      title: "duobrain",
       techStack: [
         "Next.js",
         "Node.js",
         "MongoDB"
       ],
       description:
-        "an app to store and manage Contents which can be stored, like youtube, links, instagram posts, tweets, pinterest pins, etc.",
+        'duobrain is your personal \"Second Brain\"—a central hub to store, organize, and retrieve everything that matters.',
       logo: ParabolLogo,
       link: {
         label: "github.com",
         href: "https://second-brain-chi.vercel.app/",
+      },
+    },
+    {
+      title: "Pocketdock",
+      techStack: [
+        "Golang",
+        "Linux Namespaces",
+        "Cgroups v2",
+        "OverlayFS",
+        "ip-tables"
+      ],
+      description:
+        "A tiny, educational container runtime in Go.",
+      logo: ParabolLogo,
+      link: {
+        label: "github.com",
+        href: "https://github.com/Harsh-cyber005/pocketdock/",
       },
     }
   ]
