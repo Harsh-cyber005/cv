@@ -141,7 +141,7 @@ export const RESUME_DATA = {
         href: "https://second-brain-chi.vercel.app/",
       },
     },
-    {
+    { 
       title: "Pocketdock",
       techStack: [
         "Golang",
